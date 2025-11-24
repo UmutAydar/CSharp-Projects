@@ -1,0 +1,16 @@
+# Visual Studio cache directories
+.vs/
+bin/
+obj/
+
+# Build results
+*.exe
+*.dll
+
+# User-specific files
+*.user
+*.suo
+
+# Temporary files
+*.cache
+*.tmp
